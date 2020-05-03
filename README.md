@@ -1,5 +1,5 @@
 # Market
-Sub Agen Untuk Melayani Bisnis Anda
+-Sub Agen Untuk Melayani Bisnis Anda
 Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA kami @Apa-Harapan-Kamu🎓
 
 - Ingin punya Toko Online
@@ -9,11 +9,13 @@ Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA 
 
 #Hubungi kami
 
-Kunjungi halaman
-🎌 fb.me/Pemasaran7
+#Kunjungi halaman
+---
+[Halaman](fb.me/Pemasaran7)
 
-Kirim Pesan halaman
-📩 m.me/Pemasaran7
+#Kirim Pesan halaman
+---
+[Pesan](m.me/Pemasaran7)
 
 📪 Email :fatidelfat@gmail.com
 
