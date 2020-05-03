@@ -15,7 +15,7 @@ Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA 
 
 #Kirim Pesan halaman
 ---
-[Pesan](m.me/Pemasaran7)
+[Pesan](https://m.me/Pemasaran7)
 
 📪 Email :fatidelfat@gmail.com
 
